@@ -1,0 +1,16 @@
+{
+    "background_color": "purple",
+    "description": "Shows random fox pictures. Hey, at least it isn't cats.",
+    "display": "fullscreen",
+    "icons": [
+      {
+        "src": "icon/fox-icon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ],
+    "name": "Rokomari",
+    "short_name": "Rokomari",
+    "start_url": "https://test.glowme.com.bd/"
+}
+  
